@@ -1,0 +1,3 @@
+2024-11-13 12:51:39,490 - INFO - Login to the website is done
+2024-11-13 12:52:05,091 - INFO - Process to find template Name is done
+2024-11-13 12:52:22,476 - INFO - Logout is done

@@ -1,0 +1,11 @@
+2024-11-13 12:40:08,924 - INFO - Login to the website is done
+2024-11-13 12:40:40,272 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:40:51,434 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:41:02,634 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:41:13,821 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:41:24,986 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:41:36,186 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:41:47,397 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:41:58,555 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 12:42:36,886 - INFO - Process to download the document is done
+2024-11-13 12:42:49,082 - INFO - Logout is done

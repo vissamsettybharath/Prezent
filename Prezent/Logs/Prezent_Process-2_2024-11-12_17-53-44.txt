@@ -1,0 +1,2 @@
+2024-11-12 17:54:43,101 - INFO - Login to the website is done
+2024-11-12 17:55:57,823 - INFO - Not able to find the complete fingerprint process on screen

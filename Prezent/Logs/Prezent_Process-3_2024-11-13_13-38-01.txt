@@ -1,0 +1,29 @@
+2024-11-13 13:39:05,253 - INFO - Login to the website is done
+2024-11-13 13:39:36,849 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:39:48,008 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:39:59,202 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:40:10,405 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:40:21,566 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:40:32,792 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:40:43,972 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:40:55,183 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:41:06,316 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:41:17,450 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:41:28,588 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:41:39,732 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:41:50,879 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:42:02,055 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:42:13,257 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:42:24,470 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:42:35,647 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:42:46,790 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:42:57,957 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:43:09,131 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:43:20,344 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:43:31,535 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:43:42,747 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:43:53,900 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:44:05,042 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:44:16,267 - INFO - Not able to click the Download button on screen because waiting for the file to be downloaded
+2024-11-13 13:44:53,943 - INFO - Process to download the document is done
+2024-11-13 13:45:06,122 - INFO - Logout is done

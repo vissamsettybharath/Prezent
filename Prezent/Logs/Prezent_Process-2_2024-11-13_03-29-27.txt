@@ -1,0 +1,2 @@
+2024-11-13 03:30:30,461 - INFO - Login to the website is done
+2024-11-13 03:31:05,007 - INFO - Not able to find the Download button on screen

@@ -1,0 +1,13 @@
+2024-11-13 11:05:48,076 - INFO - Login to the website is done
+2024-11-13 11:06:19,500 - INFO - Not able to find the Download button on screen
+2024-11-13 11:06:30,652 - INFO - Not able to find the Download button on screen
+2024-11-13 11:06:41,871 - INFO - Not able to find the Download button on screen
+2024-11-13 11:06:53,037 - INFO - Not able to find the Download button on screen
+2024-11-13 11:07:04,232 - INFO - Not able to find the Download button on screen
+2024-11-13 11:07:15,431 - INFO - Not able to find the Download button on screen
+2024-11-13 11:07:26,576 - INFO - Not able to find the Download button on screen
+2024-11-13 11:07:37,765 - INFO - Not able to find the Download button on screen
+2024-11-13 11:07:48,933 - INFO - Not able to find the Download button on screen
+2024-11-13 11:08:00,032 - INFO - Not able to find the Download button on screen
+2024-11-13 11:08:11,223 - INFO - Not able to find the Download button on screen
+2024-11-13 11:08:29,603 - INFO - Not able to find the Download button on screen

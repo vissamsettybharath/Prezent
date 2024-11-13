@@ -1,0 +1,5 @@
+2024-11-12 17:51:14,060 - INFO - Login to the website is done
+2024-11-12 17:52:28,703 - INFO - Not able to find the complete fingerprint process on screen
+2024-11-12 17:52:53,167 - INFO - Not able to find the skip button on screen
+2024-11-12 17:53:18,729 - INFO - Not able to find the Profile button on screen
+2024-11-12 17:53:23,733 - INFO - Process to find template Name is done
