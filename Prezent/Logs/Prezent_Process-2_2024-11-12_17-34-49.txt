@@ -1,4 +1,0 @@
-2024-11-12 17:35:50,219 - INFO - Login to the website is done
-2024-11-12 17:37:56,657 - INFO - Process to find template Name is done
-2024-11-12 17:38:18,029 - INFO - Not able to find the Basics Tab on screen
-2024-11-12 17:38:31,178 - INFO - Logout is done

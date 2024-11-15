@@ -1,2 +1,0 @@
-2024-11-13 01:41:51,403 - INFO - Login to the website is done
-2024-11-13 01:42:10,210 - INFO - Not able to find the prompt button on screen

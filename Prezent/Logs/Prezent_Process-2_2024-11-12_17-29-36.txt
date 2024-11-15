@@ -1,3 +1,0 @@
-2024-11-12 17:30:36,113 - INFO - Login to the website is done
-2024-11-12 17:32:38,487 - INFO - Not able to find the final steps buttons on screen
-2024-11-12 17:32:43,489 - INFO - Process to find template Name is done

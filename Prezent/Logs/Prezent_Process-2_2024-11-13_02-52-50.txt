@@ -1,2 +1,0 @@
-2024-11-13 02:53:51,011 - INFO - Login to the website is done
-2024-11-13 02:54:09,734 - INFO - Not able to find the suggestion button on screen

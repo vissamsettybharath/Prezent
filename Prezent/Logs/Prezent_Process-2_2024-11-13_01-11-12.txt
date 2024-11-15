@@ -1,2 +1,0 @@
-2024-11-13 01:11:29,116 - INFO - Not able to access the chrome
-2024-11-13 01:11:34,715 - INFO - Not able to access the file or could not be present in the desired folder

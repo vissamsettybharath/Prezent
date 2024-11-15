@@ -1,2 +1,0 @@
-2024-11-12 16:26:39,324 - INFO - Login to the website is done
-2024-11-12 16:27:30,768 - INFO - Not able to find the Template Tab on screen
